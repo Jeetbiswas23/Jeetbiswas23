@@ -1,6 +1,8 @@
+[![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Jeet Biswas</h1>
 <h3 align="center">I'm passionate about coding and currently expanding my skills in Java, Python, CSS and JavaScript.Learning is a journey, and I'm thrilled to be on this exciting one in the world of programming.</h3>
-<img align='right' alt='Coding' width='400' scr='https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif'>
+<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbiswas23&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbiswas23" /> </p>
 
